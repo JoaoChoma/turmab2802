@@ -1,0 +1,20 @@
+/* comentario */ 
+h2{
+    color: chocolate;
+}
+body{
+    background-color: black; 
+    color: white;
+}
+
+.texto-vermelho{
+    color: red;
+}
+
+#paragrafo{
+    color:chocolate;
+}
+
+.topo{
+    background-color: aqua;
+}
